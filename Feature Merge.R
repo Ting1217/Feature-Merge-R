@@ -1,3 +1,4 @@
+# This code has been written by Julien Saint-Vanne @jsaintvanne
 # Pour Ting, création du mgf en ajoutant les valeurs souhaitées
 library(openxlsx)
 
